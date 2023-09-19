@@ -22,7 +22,7 @@ Pour cette mission, Olist vous fournit une base de données anonymisée comporta
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## Livrables
-- Un notebook de l'analyse exploratoire (non cleané, pour comprendre votre démarche).
-- Un notebook (ou code commenté au choix) d’essais des différentes approches de modélisation (non cleané, pour comprendre votre démarche).
-- Un notebook de simulation pour déterminer la fréquence nécessaire de mise à jour du modèle de segmentation.
-- Un support de présentation
+- Un notebook de l'analyse exploratoire (non cleané, pour comprendre votre démarche) : Dabidin_Keshika_1_notebook_exploration_042023.ipynb
+- Un notebook  d’essais des différentes approches de modélisation : Dabidin_Keshika_2_notebook_essais_042023.ipynb
+- Un notebook de simulation pour déterminer la fréquence nécessaire de mise à jour du modèle de segmentation : Dabidin_Keshika_3_notebook_stabilite_042023.ipynb
+- Un support de présentation : Dabidin_Keshika_5_presentation_042023.ipynb
