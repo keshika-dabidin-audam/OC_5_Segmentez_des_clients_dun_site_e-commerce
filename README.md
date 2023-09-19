@@ -1,7 +1,7 @@
 # Projet 5 Openclassrooms : Segmentez des clients d'un site d'E-commerce
-#### Librairies Data Science, Analyse Exploratoire des données, Machine Learning , Segmentation des clients
+#### Librairies Data Science, Analyse Exploratoire des données, Machine Learning , Segmentation 
 ## Outils et compétences
-
+- 
 
 ## Description générale du projet 
 
@@ -10,3 +10,6 @@
 
 
 ### (b) Présentation des données
+
+## Livrables
+- 
